@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, this is Labrynx</h1>
 <h3 align="center">A group of passionate developers</h3>
 
-- 👨‍💻 All of my projects are available at [www.labrynx.com](www.labrynx.com)
+- 👨‍💻 All of our projects are available at [www.labrynx.com](www.labrynx.com)
 
-- 📫 How to reach me **github@labrynx.com**
+- 📫 How to reach us **github@labrynx.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
