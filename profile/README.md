@@ -14,7 +14,7 @@
 ## Table of Contents
 | Section | Description |
 | ------- | ----------- |
-| [Explore Our Projects](#explore-our-projects) | Discover our latest tech solutions. |
+| [Explore Our Projects](#explore-our-projects) | Discover our latest tech solutions, focusing on backend development. |
 | [Get in Touch](#get-in-touch) | Contact information. |
 | [Connect with Us](#connect-with-us) | Where to find us online. |
 | [About Us](#about-us) | Who we are and what we do. |
@@ -24,7 +24,7 @@
 ---
 
 ## Explore Our Projects
-For a comprehensive list of our projects, visit [our website](https://www.labrynx.com).
+Specializing in backend development. For a comprehensive list of our projects, visit [our website](https://www.labrynx.com).
 
 ---
 
@@ -42,31 +42,26 @@ Email: [github@labrynx.com](mailto:github@labrynx.com)
 ---
 
 ## About Us
-We focus on building innovative and high-impact technology solutions.
+Specializing in backend development, we focus on building innovative and high-impact technology solutions.
 
 ### Tech Stack
 | Category | Technologies |
 | -------- | ------------ |
-| Languages | JavaScript, Python |
-| Frameworks | ReactJS |
+| Languages | TypeScript, JavaScript, HTML, CSS |
+| Frameworks | Angular, NestJS, Express |
+| UI | Bootstrap |
 | DevOps | Docker, GitHub Actions |
 | Quality Assurance | SonarQube |
 
 ---
 
 ## Featured Projects
-- [Project 1](https://github.com/labrynx/project1): Revolutionizing [description]
-- [Project 2](https://github.com/labrynx/project2): Enhancing [description]
+- [error-enhanced](https://github.com/labrynx/error-enhanced): Enrich errors in TypeScript and JavaScript using a modular system with ts-mixer.
 
 ---
 
 ## Contributing
-See our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
----
-
-## Newsletter
-To stay updated with our latest projects, [subscribe to our newsletter](#).
+For guidelines on how to contribute, please see our [generic Contributing Guidelines](CONTRIBUTING.md).
 
 ---
 
