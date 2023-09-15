@@ -2,7 +2,9 @@
 
 Welcome to Labrynx, where innovation meets code! We are a dynamic group of developers on a mission to reshape the digital world with our cutting-edge solutions.
 
-[![Labrynx Logo](labrynx.png)](https://www.labrynx.com)
+<p align="center">
+<img src="labrynx.logo.svg" alt="Labrynx Logo" width="150">
+</p>
 
 ## 🌐 Explore Our Projects
 Discover our latest creations and contributions to the world of technology at [www.labrynx.com](https://www.labrynx.com).
