@@ -1,7 +1,6 @@
 <h1 align="center">Labrynx - Passionate Developers</h1>
 
 <p align="center">
-  <a href="https://twitter.com/labrynx"><img src="https://img.shields.io/twitter/follow/labrynx?style=flat-square"></a>
   <a href="https://github.com/labrynx"><img src="https://img.shields.io/github/followers/labrynx?style=flat-square"></a>
 </p>
 
