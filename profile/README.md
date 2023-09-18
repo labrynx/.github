@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="your-profile-image.svg" alt="Labrynx Logo" width="150">
+  <img src="labrynx.logo.svg" alt="Labrynx Logo" width="150">
 </p>
 
 ---
