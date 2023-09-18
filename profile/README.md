@@ -37,6 +37,7 @@ Email: [github@labrynx.com](mailto:github@labrynx.com)
 | -------- | ---- |
 | Website  | [Labrynx.com](https://www.labrynx.com) |
 | CodePen  | [CodePen Profile](https://codepen.io/labrynx) |
+| npmjs    | [Packages](https://www.npmjs.com/org/labrynx) |
 
 ---
 
