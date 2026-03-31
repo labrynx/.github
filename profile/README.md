@@ -1,68 +1,101 @@
-<h1 align="center">Labrynx - Passionate Developers</h1>
-
+<h1 align="center">Labrynx</h1>
 <p align="center">
-  <a href="https://github.com/labrynx"><img src="https://img.shields.io/github/followers/labrynx?style=flat-square"></a>
+  Building tools, systems, and ideas for developers who care about how things work.
 </p>
 
 <p align="center">
-  <img src="labrynx.logo.svg" alt="Labrynx Logo" width="150">
+  <img src="labrynx.logo.svg" alt="Labrynx Logo" width="140">
+</p>
+
+<p align="center">
+  <a href="https://github.com/labrynx">
+    <img src="https://img.shields.io/github/followers/labrynx?style=flat-square">
+  </a>
 </p>
 
 ---
 
-## Table of Contents
-| Section | Description |
-| ------- | ----------- |
-| [Explore Our Projects](#explore-our-projects) | Discover our latest tech solutions, focusing on backend development. |
-| [Get in Touch](#get-in-touch) | Contact information. |
-| [Connect with Us](#connect-with-us) | Where to find us online. |
-| [About Us](#about-us) | Who we are and what we do. |
-| [Featured Projects](#featured-projects) | Highlights from our portfolio. |
-| [Contributing](#contributing) | How to contribute to our projects. |
+## What is Labrynx?
+
+Labrynx is a space for building **developer-first tools and systems**.
+
+We focus on:
+
+- local-first workflows  
+- explicit and deterministic systems  
+- developer experience as a first-class concern  
+- clean architecture and modular design  
+
+This is not just about code.  
+It’s about **how software should behave**.
 
 ---
 
-## Explore Our Projects
-Specializing in backend development. For a comprehensive list of our projects, visit [our website](https://www.labrynx.com).
+## What you'll find here
+
+A growing ecosystem of projects around:
+
+- ⚙️ Environment management  
+- 🧠 Structured systems and execution models  
+- 🏗️ Modular architectures  
+- 🧰 Developer tooling & CLI utilities  
+
+Some projects are experimental.  
+Some are production-ready.  
+Others remain private.
 
 ---
 
-## Get in Touch
-Email: [github@labrynx.com](mailto:github@labrynx.com)
+## Featured projects
+
+- **envctl**  
+  Local-first environment control plane.  
+  Contracts, vaults, profiles, and deterministic workflows.
+
+- **more coming soon…**  
+  Additional systems and frameworks are currently under active development.
 
 ---
 
-## Connect with Us
-| Platform | Link |
-| -------- | ---- |
-| Website  | [Labrynx.com](https://www.labrynx.com) |
-| CodePen  | [CodePen Profile](https://codepen.io/labrynx) |
-| npmjs    | [Packages](https://www.npmjs.com/org/labrynx) |
+## Philosophy
+
+We believe in:
+
+- explicit over implicit  
+- control over magic  
+- local-first over cloud-first  
+- systems that can be understood, not just used  
 
 ---
 
-## About Us
-Specializing in backend development, we focus on building innovative and high-impact technology solutions.
+## Tech stack
 
-### Tech Stack
-| Category | Technologies |
-| -------- | ------------ |
-| Languages | TypeScript, JavaScript, HTML, CSS |
-| Frameworks | Angular, NestJS, Express |
-| UI | Bootstrap |
+| Area | Technologies |
+|------|-------------|
+| Languages | TypeScript, Python |
+| Backend | Fastify, Node.js |
+| Frontend | React, Vite, UnoCSS |
+| Data | PostgreSQL, Drizzle ORM |
+| Tooling | CLI-first design, code generation |
 | DevOps | Docker, GitHub Actions |
-| Quality Assurance | SonarQube |
-
----
-
-## Featured Projects
-- [error-enhanced](https://github.com/labrynx/error-enhanced): Enrich errors in TypeScript and JavaScript using a modular system with ts-mixer.
 
 ---
 
 ## Contributing
-For guidelines on how to contribute, please see our [generic Contributing Guidelines](CONTRIBUTING.md).
+
+Contributions, ideas, and discussions are welcome.
+
+If something here resonates with you —jump in.
 
 ---
 
-<h3 align="center">Join us on this journey of innovation. Let's code a brighter future together.</h3>
+## Contact
+
+- GitHub: https://github.com/labrynx  
+- Email: github@labrynx.com  
+
+---
+
+<p align="center">
+  Building systems that make sense.
+</p>
