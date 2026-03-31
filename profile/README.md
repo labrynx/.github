@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="labrynx.logo.svg" alt="Labrynx Logo" width="140">
+  <img src="../labrynx.logo.svg" alt="Labrynx Logo" width="140">
 </p>
 
 <p align="center">
